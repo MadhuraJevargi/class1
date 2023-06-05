@@ -1,1 +1,1 @@
-First Class of Deveops on Github.
+First Class of Devops on Github.
